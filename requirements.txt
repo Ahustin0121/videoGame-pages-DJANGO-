@@ -1,0 +1,6 @@
+asgiref
+Django==5.2
+gunicorn
+whitenoise
+sqlparse
+Pillow
